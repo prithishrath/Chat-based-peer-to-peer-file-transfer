@@ -1,0 +1,6 @@
+*.pyc
+*.log
+*.txt
+*.xml
+*.iml
+sample.py
