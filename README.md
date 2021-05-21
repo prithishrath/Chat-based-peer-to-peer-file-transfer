@@ -89,20 +89,12 @@ This is a simple, albeit complete implementation of a chat based file transfer a
 
 ## Authors
 
-* **Arjun Augustine** - [arjunaugustine](https://github.com/arjunaugustine)
-* **Eswar Kokkiligadda** - [eswark2911](https://github.com/eswark2911)
-* **Danis Fermi** - [danisfermi](https://github.com/danisfermi)
-* **Aparna Maleth** - [aparnamaleth](https://github.com/aparnamaleth)
+* **Prithish Kumar Rath** - [prithishrath](https://github.com/prithishrath)
 
-See also the list of [contributors](Contributors.md) who participated in this project.
 
-## License
-
-This project is licensed under the GPLV3 License - see the [LICENSE](LICENSE) file for details
 
 ## Acknowledgments
 
-* All thanks to our professor, **Prof. Muhammad Shahzad** - [mshahza](http://www4.ncsu.edu/~mshahza/)
 * [Stackoverflow](www.stackoverflow.com)
 * [Python 2.7 Official Documentation](https://docs.python.org/2.7/reference/)
 * [Beej’s Blog on Socket Programming Using Python](http://beej.us/blog/)
